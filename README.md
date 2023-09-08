@@ -3,10 +3,12 @@ PROJECT TOPIC: Creating an Interactive web map of Salzburg City that displays it
 
 GROUP MEMBERS
 Otuonye Kelechi Pascal (S1099052)
+
 Olatunji Babafemi Sunday (s1099594)
 
 PROJECT AIMS
 1. Kelechi Otuonye: Responsible for creating the project proposal and will handle project management and control. Also ensure the project is concluded and submit on schedule. Spends an average of 4hours per week.
+
 
 2. Olatunji Babafemi Sunday: Responsible to source data needed to carry out the project and provide areas of focus such as the notable museums and areas to be worked on during the project.
 
