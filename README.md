@@ -2,7 +2,7 @@
 PROJECT TOPIC: Creating an Interactive web map of Salzburg City that displays its major museum locations.
 
 GROUP MEMBERS
-Otuonye Kelechi Pascal (S1099052)
+Otuonye Kelechi Paschal (S1099052)
 
 Olatunji Babafemi Sunday (s1099594)
 
@@ -21,5 +21,5 @@ MATERIALS/RESOURCES HELPFUL FOR THE SUCCESS OF THIS PROJECT
    Interactive maps (autogis-site.readthedocs.io)
    folium/examples/MarkerCluster.ipynb at main · python-
    EXPECTED DATE OF SUBMISSION
-   This project is expected to be submitted at the latest 20th August, 2023
+   This project is expected to be submitted at the latest August, 2023
    
